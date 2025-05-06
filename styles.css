@@ -20,7 +20,7 @@ h2 {
 }
 
 p {
-    background-color: rgba(238, 108, 108, 0.7);
+    background-color: rgba(173, 163, 163, 0.7);
     padding: 20px 40px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -47,6 +47,6 @@ p {
 .essay-card p {
     font-size: 16px;
     line-height: 1.6;
-    color: #444;
+    color: #bc1212;
 }
 
